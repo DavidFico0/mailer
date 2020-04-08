@@ -8,6 +8,7 @@ const nodemailer = require('nodemailer');
 //       pass: "50101c0c934809"
 //     }
 //   });
+//https://mailtrap.io/inboxes/885675/messages/1651435909/raw
 
 const transport = {
     host: "smtp.mailtrap.io",
